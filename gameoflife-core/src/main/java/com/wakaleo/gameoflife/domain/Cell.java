@@ -10,7 +10,7 @@ public enum Cell {
     }
 
     @Override
-    public String toString() {
+    public String toString() { 
         return symbol; 
     }
 
